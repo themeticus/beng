@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# Life Choices Contributor Covenant Code of Conduct
 
 ## Our Pledge
 
