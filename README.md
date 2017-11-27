@@ -4,7 +4,7 @@ ancient thoughts ago... the followers of the great SRETSIS fought the ethereal w
 
 # about
 
-beng is a single or multi player game, designed to help humans understand their emotions, through understanding their thoughts. 
+beng is a single or multi player game, designed to help humans understand their emotions, through understanding their thoughts.
 
 # contributers
 
@@ -29,3 +29,16 @@ beng is a single or multi player game, designed to help humans understand their 
   <li>Ashley - https://github.com/aqhimngqoshe</li>
   <li>Hugh - https://github.com/themeticus</li>
 </ul>
+
+# resources
+
+build a simple multiplayer game using socket.io, node.js and some love
+http://buildnewgames.com/real-time-multiplayer/
+
+a node based game server for real time online javascript multiplayer games
+http://lance.gg/
+https://github.com/lance-gg/lance
+
+world class web animation
+https://greensock.com/examples-showcases
+https://github.com/greensock/GreenSock-JS
