@@ -27,7 +27,7 @@ beng is a single or multi player game, designed to help humans understand their 
   <li>Jade - https://github.com/jade-neve</li>
   <li>Chante - https://github.com/ChanteMalan</li>
   <li>Ashley - https://github.com/aqhimngqoshe</li>
-  <li>Hugh - https://github.com/themeticus</li>
+  <li>Hugh Mosno - https://github.com/themeticus</li>
 </ul>
 
 # resources
