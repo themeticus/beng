@@ -1,10 +1,10 @@
 # beng
 
-ancient thoughts ago... the followers of the great SRETSIS fought the ethereal war against the reapers of the same, led by the vile REHTORB... the start of the never end was marked by the coming of the seven sisters, who together reflected the face of one love, though revealing themselves only as thought. SILATNEM could change not only the shape of things, but the minds of men, TIRALOP, ITARBIV, TYHR, ITASUAC, OPSERROC & ENDEG, each gifted... but the cosmic cleansing had separated the sisters of one love, and so to entwine their intentions with timelessness, the siblings merged themselves into every soulful atom across the somethingverse... a dance had begun, one that will last for all human heartbeats, seeking to reunite the sisters & reignite the memory of the legendary eson, son of jam
+ancient thoughts ago... the followers of the great SRETSIS fought the ethereal war against the reapers of the same, led by the vile REHTORB... the start of the never end was marked by the coming of the seven sisters, who together reflected the face of one love, though revealing themselves only as thought. SILATNEM could change not only the shape of things, but the minds of men, TIRALOP, ITARBIV, TYHR, ITASUAC, OPSERROC & ENDEG, were each gifted... but the cosmic cleansing had separated the sisters of one love, and so to entwine their intentions with timelessness, the siblings merged themselves into every soulful atom across the somethingverse... a dance had begun, one that will last for all human heartbeats, seeking to reunite the sisters & reignite the memory of the legendary beng
 
 # about
 
-beng is a single or multi player game, designed with the aim of helping anyone to understand their emotions, through understanding their thoughts.
+beng is a single or multi player game, designed to help humans understand their emotions, through understanding their thoughts. 
 
 # contributers
 
@@ -27,4 +27,5 @@ beng is a single or multi player game, designed with the aim of helping anyone t
   <li>Jade - https://github.com/jade-neve</li>
   <li>Chante - https://github.com/ChanteMalan</li>
   <li>Ashley - https://github.com/aqhimngqoshe</li>
+  <li>Hugh - https://github.com/themeticus</li>
 </ul>
