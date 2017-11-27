@@ -33,12 +33,15 @@ beng is a single or multi player game, designed to help humans understand their 
 # resources
 
 build a simple multiplayer game using socket.io, node.js and some love
-http://buildnewgames.com/real-time-multiplayer/
+
+http://buildnewgames.com/real-time-multiplayer/  
 
 a node based game server for real time online javascript multiplayer games
-http://lance.gg/
-https://github.com/lance-gg/lance
+
+http://lance.gg/  
+https://github.com/lance-gg/lance  
 
 world class web animation
-https://greensock.com/examples-showcases
-https://github.com/greensock/GreenSock-JS
+
+https://greensock.com/examples-showcases  
+https://github.com/greensock/GreenSock-JS  
