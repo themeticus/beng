@@ -15,7 +15,7 @@ div.character {
 .little-dude {
   text-align: center;
   position: relative;
-  top: 25%;
+  top: 24%;
   display: inline-block;
   -webkit-animation: levitation 3s ease-in-out infinite;
   -moz-animation: levitation 3s ease-in-out infinite;
