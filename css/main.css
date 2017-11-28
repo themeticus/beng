@@ -74,7 +74,7 @@ div.character {
   display: block;
   width: 4px;
   height: 4px;
-  background: white;
+  background: red;
   position: absolute;
   left: 4px;
   top: 4px;
@@ -89,7 +89,7 @@ div.character {
 .mouth {
   width: 35px;
   height: 10px;
-  background: black;
+  background: green;
   position: relative;
   top: 30px;
   left: 60px;
