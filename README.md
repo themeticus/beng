@@ -16,7 +16,7 @@ beng is a single or multi player game, designed to help humans understand their 
   <li>Lonwabo - https://github.com/Mdazukalonwabo</li>
   <li>Matthew - https://github.com/MatthewBrad</li>
   <li>Lance - https://github.com/lance885858</li>
-  <li>Khuanita - https://github.com/TheBoomBoom</li>
+  <li>Khuanita Bright - https://github.com/TheBoomBoom</li>
   <li>Keegan - https://github.com/keeganfrieslaar</li>
   <li>Kirsten - https://github.com/Meeeeee420</li>
   <li>Garth - https://github.com/Garth-Schieman</li>
