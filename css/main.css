@@ -10,7 +10,13 @@ div.character {
   height: 500px;
   margin: 0 auto;
   text-align: center;
-  position: relative; }
+  position: relative;
+  transition: transform 5s;
+   }
+
+   .character:hover {
+  transform: rotate(360deg);
+   }
 
 .little-dude {
   text-align: center;
