@@ -74,24 +74,24 @@ div.character {
   display: block;
   width: 4px;
   height: 4px;
-  background: white;
+  background: red;
   position: absolute;
   left: 4px;
   top: 4px;
   border-radius: 50%; }
 
 .eyes .eye.eye-left {
-  left: 30%; }
+  left: 20%; }
 
 .eyes .eye.eye-right {
-  right: 30%; }
+  right: 20%; }
 
 .mouth {
   width: 35px;
   height: 10px;
-  background: black;
+  background: pink;
   position: relative;
-  top: 30px;
+  top: 50px;
   left: 60px;
   border-radius: 70% 70% 0% 0% / 140% 140% 0% 0%;
   -webkit-transition: all .1s ease-in-out;
