@@ -24,7 +24,7 @@ div.character {
   animation: levitation 3s ease-in-out infinite; }
 
 .little-dude:hover .mouth {
-  height: 45px; }
+  height: 70px; }
 
 .little-dude:hover .mouth:after {
   height: 10px; }
@@ -44,7 +44,7 @@ div.character {
   animation: moveLegRight .15s ease-in-out infinite; }
 
 .dude-body {
-  background: #48ACE0;
+  background: #E34C26;
   margin: 0 auto;
   width: 155px;
   height: 200px;
