@@ -1,5 +1,5 @@
 body {
-  background: #95D4C3;
+  background: white;
   color: #000000; }
 
 span {
@@ -44,7 +44,7 @@ div.character {
   animation: moveLegRight .15s ease-in-out infinite; }
 
 .dude-body {
-  background: #48ACE0;
+  background: green;
   margin: 0 auto;
   width: 155px;
   height: 200px;
@@ -117,7 +117,7 @@ div.character {
   transition: all .1s ease-in-out; }
 
 .ears .ear {
-  border: 5px solid #48ACE0;
+  border: 5px solid lightgreen;
   width: 4px;
   height: 45px;
   border-radius: 50%;
@@ -181,7 +181,7 @@ div.character {
   width: 45px;
   height: 25px;
   border-radius: 50%;
-  background: #3585AD;
+  background: lightgreen;
   position: absolute;
   -webkit-transform-origin: center;
   -moz-transform-origin: center;
@@ -211,7 +211,7 @@ div.character {
   display: block;
   width: 110px;
   height: 110px;
-  background: #69AA98;
+  background: lightgreen;
   border-radius: 50%;
   left: 155px;
   position: absolute;
