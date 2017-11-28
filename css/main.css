@@ -44,7 +44,7 @@ div.character {
   animation: moveLegRight .15s ease-in-out infinite; }
 
 .dude-body {
-  background: #48ACE0;
+  background: pink;
   margin: 0 auto;
   width: 155px;
   height: 200px;
