@@ -89,7 +89,7 @@ div.character {
 .mouth {
   width: 35px;
   height: 10px;
-  background: black;
+  background: blue;
   position: relative;
   top: 30px;
   left: 60px;
