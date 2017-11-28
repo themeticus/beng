@@ -9,7 +9,7 @@ beng is a single or multi player game, designed to help humans understand their 
 # contributers
 
 <ul>
-  <li>Siyabonga - https://github.com/SiyabongaBadu</li>
+  <li>Siyabonga Badu - https://github.com/SiyabongaBadu</li>
   <li>Damian - https://github.com/pikkieKing</li>
   <li>Melissa - https://github.com/Melnaz</li>
   <li>Megan - https://github.com/Megymegs</li>
