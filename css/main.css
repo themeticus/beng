@@ -52,6 +52,16 @@ div.character {
   position: relative;
   z-index: 4; }
 
+.dude-body:hover {
+    background: #ff90c3;
+  }
+
+.dude-body:hover .eyes .eye {
+  width: 10px;
+  top: 35px;
+  height: 32px;
+}
+
 .face {
   width: 105px;
   position: relative; }
@@ -77,7 +87,7 @@ div.character {
   background: white;
   position: absolute;
   left: 4px;
-  top: 4px;
+  top: 18px;
   border-radius: 50%; }
 
 .eyes .eye.eye-left {
@@ -93,7 +103,7 @@ div.character {
   position: relative;
   top: 50px;
   left: 60px;
-  border-radius: 70% 70% 0% 0% / 140% 140% 0% 0%;
+  border-radius: 0% 0% 140% 140% / 0% 0% 160% 160%;
   -webkit-transition: all .1s ease-in-out;
   -moz-transition: all .1s ease-in-out;
   -ms-transition: all .1s ease-in-out;
